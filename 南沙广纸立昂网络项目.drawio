@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-06T07:17:49.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tZxzR2IDEK0xCp0v1p1m" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-06T07:20:06.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="jwCWYzA6mPGQ2REkzpNP" version="14.8.4" type="github">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="928" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2651" dy="1351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="hw53rwJtTUeuirs_UyYl-111" value="区域层" parent="0" />
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="hw53rwJtTUeuirs_UyYl-121" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=50;" parent="hw53rwJtTUeuirs_UyYl-111" vertex="1">
           <mxGeometry x="147" y="165" width="1460" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JrFSCxaFhE1vfirKqIKF-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="hw53rwJtTUeuirs_UyYl-111" vertex="1">
-          <mxGeometry x="40" y="40" width="1680" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="hw53rwJtTUeuirs_UyYl-1" value="设备层" parent="0" />
